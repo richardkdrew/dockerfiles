@@ -5,4 +5,4 @@ Various Dockerfiles for Windows. These were developed using a technical preview 
 
 The Dockerfiles in this folder are windows specific, you will need to be running a Windows machine that has Windows Containers installed/enabled before you can use them.
 
-[Chocolatey](/chocolatey)
+[Chocolatey](chocolatey)
